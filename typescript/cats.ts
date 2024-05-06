@@ -17,9 +17,9 @@ console.log("The size of the stack is: ", catStack.size)
 console.log("Is the stack empty? ", catStack.isEmpty)
 
 // Print fruit items
-catStack.push("poodle")
-catStack.push("retriever")
-catStack.push("beagle")
+catStack.push("calico")
+catStack.push("siamese")
+catStack.push("ginger")
 console.log("Cat items: ", catStack.showStack())
 
 // Look at the top element of the array
